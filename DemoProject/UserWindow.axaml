@@ -1,0 +1,90 @@
+<Window xmlns="https://github.com/avaloniaui"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:asyncImageLoader="clr-namespace:AsyncImageLoader;assembly=AsyncImageLoader.Avalonia"
+        mc:Ignorable="d" d:DesignWidth="800" d:DesignHeight="450"
+        x:Class="DemoProject.UserWindow"
+        x:CompileBindings="False"
+        
+        Title="UserWindow">
+  <DockPanel>
+	  <StackPanel DockPanel.Dock="Top" 
+                  Orientation="Horizontal"
+                  Spacing="5"
+                  Margin="10">
+          <Button Click="Button_GoBack" 
+                  Content="Выйти" Background="#00FA9A"
+                  FontFamily="Times New Roman"/>
+          <TextBlock Name="User_TextBlock" 
+                     HorizontalAlignment="Right" 
+                     VerticalAlignment="Center"
+                  FontFamily="Times New Roman"/>
+      </StackPanel>
+      <ListBox Name="ListBoxTovar" Width="800" Height="400" Background="#7FFF00">
+		  <ListBox.ItemTemplate>
+			  <DataTemplate>
+				  <Grid ColumnDefinitions="100,450,*">
+					  <StackPanel Grid.Column="0">
+						  <Image asyncImageLoader:ImageLoader.Source="TovarImages"/>
+                      </StackPanel>
+                      <Grid RowDefinitions="*,*,*,*,*,*,*" Grid.Column="1">
+                          <StackPanel Orientation="Horizontal" Spacing="5">
+							  <TextBlock Text="{Binding Category.CategoryName}"
+                                         FontFamily="Times New Roman"/>
+                              <TextBlock Text="|"
+                                         FontFamily="Times New Roman"/>
+                              <TextBlock Text="{Binding Type.TypeName}"
+                                         FontFamily="Times New Roman"/>
+                          </StackPanel>
+                          <StackPanel Grid.Row="1" Orientation="Horizontal" Spacing="3" >
+							  <TextBlock Text="Описание товара:"
+                                         FontFamily="Times New Roman"/>
+                              <TextBlock Text="{Binding TovarDescription}" 
+                                         FontFamily="Times New Roman"
+                                         TextWrapping="WrapWithOverflow" Width="300"
+                                        />
+                          </StackPanel>
+                          <StackPanel Grid.Row="2" Orientation="Horizontal">
+							  <TextBlock Text="Производитель: "
+                                         FontFamily="Times New Roman"/>
+                              <TextBlock Text="{Binding Proizvod.ProizvodName}"
+                                         FontFamily="Times New Roman"/>
+                          </StackPanel>
+                          <StackPanel Grid.Row="3" Orientation="Horizontal">
+							  <TextBlock Text="Поставщик: "
+                                         FontFamily="Times New Roman"/>
+                              <TextBlock Text="{Binding Postav.PostavName}"
+                                         FontFamily="Times New Roman"/>
+                          </StackPanel>
+                          <StackPanel Grid.Row="4" Orientation="Horizontal">
+							  <TextBlock Text="Цена: "
+                                         FontFamily="Times New Roman"/>
+                              <TextBlock Text="{Binding TovarPrice}"
+                                         FontFamily="Times New Roman"/>
+                          </StackPanel>
+                          <StackPanel Grid.Row="5" Orientation="Horizontal">
+							  <TextBlock Text="Единица измерения: "
+                                         FontFamily="Times New Roman"/>
+                              <TextBlock Text="{Binding TovarIzmer}"
+                                         FontFamily="Times New Roman"/>
+                          </StackPanel>
+                          <StackPanel Grid.Row="6" Orientation="Horizontal">
+							  <TextBlock Text="количество на складу: "
+                                         FontFamily="Times New Roman"/>
+                              <TextBlock Text="{Binding TovarCountOnSklad}"
+                                         FontFamily="Times New Roman"/>
+                          </StackPanel>
+                      </Grid>
+                      <StackPanel Grid.Column="2">
+                          <TextBlock Text="Действующая скидка:"
+                                     FontFamily="Times New Roman"/>
+                          <TextBlock Text="{Binding TovarActiveDiscount}"
+                                     FontFamily="Times New Roman"/>
+                      </StackPanel>
+                  </Grid>
+              </DataTemplate>
+          </ListBox.ItemTemplate>
+      </ListBox>
+  </DockPanel>
+</Window>

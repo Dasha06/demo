@@ -5,5 +5,27 @@
         mc:Ignorable="d" d:DesignWidth="800" d:DesignHeight="450"
         x:Class="DemoProject.MainWindow"
         Title="DemoProject">
-    Welcome to Avalonia!
+    <DockPanel>
+		<StackPanel Orientation="Vertical" 
+                    HorizontalAlignment="Center" 
+                    VerticalAlignment="Center"
+                    Spacing="10">
+			<TextBlock Text="Авторизация" FontSize="25" Margin="5"
+                  FontFamily="Times New Roman"/>
+            <TextBlock Text="Логин" HorizontalAlignment="Center"
+                  FontFamily="Times New Roman"/>
+            <TextBox Name="TextBlock_login"
+                  FontFamily="Times New Roman"/>
+            <TextBlock Text="Пароль" HorizontalAlignment="Center"
+                  FontFamily="Times New Roman"/>
+            <TextBox Name="TextBlock_Password"
+                  FontFamily="Times New Roman"/>
+            <TextBlock Name="Error_TextBlock"
+                  FontFamily="Times New Roman"/>
+            <Button Content="Войти"
+                    HorizontalAlignment="Center"
+                    Click="Button_Enter" Background="#00FA9A"
+                  FontFamily="Times New Roman"/>
+        </StackPanel>
+    </DockPanel>
 </Window>
