@@ -26,6 +26,10 @@
                     HorizontalAlignment="Center"
                     Click="Button_Enter" Background="#00FA9A"
                   FontFamily="Times New Roman"/>
+            <Button Content="Войти как гость"
+                                        HorizontalAlignment="Center"
+            Click="Button_EnterAsGost" Background="#00FA9A"
+                  FontFamily="Times New Roman"/>
         </StackPanel>
     </DockPanel>
 </Window>
