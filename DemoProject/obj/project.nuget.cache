@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "z46V+IxXFqI=",
+  "dgSpecHash": "bxKx/oa3s6Q=",
   "success": true,
   "projectFilePath": "C:\\Users\\User1.11\\Desktop\\Столярова Дарья\\Demoproject\\DemoProject\\DemoProject.csproj",
   "expectedPackageFiles": [
@@ -68,15 +68,5 @@
     "C:\\Users\\User1.11\\.nuget\\packages\\system.composition.typedparts\\9.0.0\\system.composition.typedparts.9.0.0.nupkg.sha512",
     "C:\\Users\\User1.11\\.nuget\\packages\\tmds.dbus.protocol\\0.21.2\\tmds.dbus.protocol.0.21.2.nupkg.sha512"
   ],
-  "logs": [
-    {
-      "code": "NU1900",
-      "level": "Warning",
-      "message": "Произошла ошибка при получении данных уязвимости пакета: Не удалось загрузить индекс службы для источника https://api.nuget.org/v3/index.json.",
-      "projectPath": "C:\\Users\\User1.11\\Desktop\\Столярова Дарья\\Demoproject\\DemoProject\\DemoProject.csproj",
-      "warningLevel": 1,
-      "filePath": "C:\\Users\\User1.11\\Desktop\\Столярова Дарья\\Demoproject\\DemoProject\\DemoProject.csproj",
-      "targetGraphs": []
-    }
-  ]
+  "logs": []
 }

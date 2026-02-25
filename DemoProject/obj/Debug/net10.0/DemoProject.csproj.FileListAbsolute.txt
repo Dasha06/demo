@@ -170,3 +170,4 @@ C:\Users\User1.11\Desktop\Столярова Дарья\Demoproject\DemoProject\
 C:\Users\User1.11\Desktop\Столярова Дарья\Demoproject\DemoProject\obj\Debug\net10.0\DemoProject.genruntimeconfig.cache
 C:\Users\User1.11\Desktop\Столярова Дарья\Demoproject\DemoProject\obj\Debug\net10.0\ref\DemoProject.dll
 C:\Users\User1.11\Desktop\Столярова Дарья\Demoproject\DemoProject\bin\Debug\net10.0\AsyncImageLoader.Avalonia.dll
+C:\Users\User1.11\Desktop\Столярова Дарья\Demoproject\DemoProject\obj\Debug\net10.0\DemoProject.sourcelink.json

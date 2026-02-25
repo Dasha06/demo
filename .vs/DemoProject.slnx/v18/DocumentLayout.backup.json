@@ -3,12 +3,32 @@
   "WorkspaceRootPath": "C:\\Users\\User1.11\\Desktop\\\u0421\u0442\u043E\u043B\u044F\u0440\u043E\u0432\u0430 \u0414\u0430\u0440\u044C\u044F\\DemoProject\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{E75B599E-1AD7-47EF-B572-CF97994CE184}|DemoProject\\DemoProject.csproj|c:\\users\\user1.11\\desktop\\\u0441\u0442\u043E\u043B\u044F\u0440\u043E\u0432\u0430 \u0434\u0430\u0440\u044C\u044F\\demoproject\\demoproject\\mainwindow.axaml||{6D5344A2-2FCD-49DE-A09D-6A14FD1B1224}",
-      "RelativeMoniker": "D:0:0:{E75B599E-1AD7-47EF-B572-CF97994CE184}|DemoProject\\DemoProject.csproj|solutionrelative:demoproject\\mainwindow.axaml||{6D5344A2-2FCD-49DE-A09D-6A14FD1B1224}"
+      "AbsoluteMoniker": "D:0:0:{B8C94377-A4ED-32AF-5830-768049F413A4}|DemoProject\\DemoProject.csproj|c:\\users\\user1.11\\desktop\\\u0441\u0442\u043E\u043B\u044F\u0440\u043E\u0432\u0430 \u0434\u0430\u0440\u044C\u044F\\demoproject\\demoproject\\userwindow.axaml||{6D5344A2-2FCD-49DE-A09D-6A14FD1B1224}",
+      "RelativeMoniker": "D:0:0:{B8C94377-A4ED-32AF-5830-768049F413A4}|DemoProject\\DemoProject.csproj|solutionrelative:demoproject\\userwindow.axaml||{6D5344A2-2FCD-49DE-A09D-6A14FD1B1224}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E75B599E-1AD7-47EF-B572-CF97994CE184}|DemoProject\\DemoProject.csproj|c:\\users\\user1.11\\desktop\\\u0441\u0442\u043E\u043B\u044F\u0440\u043E\u0432\u0430 \u0434\u0430\u0440\u044C\u044F\\demoproject\\demoproject\\mainwindow.axaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E75B599E-1AD7-47EF-B572-CF97994CE184}|DemoProject\\DemoProject.csproj|solutionrelative:demoproject\\mainwindow.axaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{B8C94377-A4ED-32AF-5830-768049F413A4}|DemoProject\\DemoProject.csproj|c:\\users\\user1.11\\desktop\\\u0441\u0442\u043E\u043B\u044F\u0440\u043E\u0432\u0430 \u0434\u0430\u0440\u044C\u044F\\demoproject\\demoproject\\models\\tovar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B8C94377-A4ED-32AF-5830-768049F413A4}|DemoProject\\DemoProject.csproj|solutionrelative:demoproject\\models\\tovar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B8C94377-A4ED-32AF-5830-768049F413A4}|DemoProject\\DemoProject.csproj|c:\\users\\user1.11\\desktop\\\u0441\u0442\u043E\u043B\u044F\u0440\u043E\u0432\u0430 \u0434\u0430\u0440\u044C\u044F\\demoproject\\demoproject\\mainwindow.axaml||{6D5344A2-2FCD-49DE-A09D-6A14FD1B1224}",
+      "RelativeMoniker": "D:0:0:{B8C94377-A4ED-32AF-5830-768049F413A4}|DemoProject\\DemoProject.csproj|solutionrelative:demoproject\\mainwindow.axaml||{6D5344A2-2FCD-49DE-A09D-6A14FD1B1224}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B8C94377-A4ED-32AF-5830-768049F413A4}|DemoProject\\DemoProject.csproj|c:\\users\\user1.11\\desktop\\\u0441\u0442\u043E\u043B\u044F\u0440\u043E\u0432\u0430 \u0434\u0430\u0440\u044C\u044F\\demoproject\\demoproject\\mainwindow.axaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B8C94377-A4ED-32AF-5830-768049F413A4}|DemoProject\\DemoProject.csproj|solutionrelative:demoproject\\mainwindow.axaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B8C94377-A4ED-32AF-5830-768049F413A4}|DemoProject\\DemoProject.csproj|c:\\users\\user1.11\\desktop\\\u0441\u0442\u043E\u043B\u044F\u0440\u043E\u0432\u0430 \u0434\u0430\u0440\u044C\u044F\\demoproject\\demoproject\\userwindow.axaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B8C94377-A4ED-32AF-5830-768049F413A4}|DemoProject\\DemoProject.csproj|solutionrelative:demoproject\\userwindow.axaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B8C94377-A4ED-32AF-5830-768049F413A4}|DemoProject\\DemoProject.csproj|c:\\users\\user1.11\\desktop\\\u0441\u0442\u043E\u043B\u044F\u0440\u043E\u0432\u0430 \u0434\u0430\u0440\u044C\u044F\\demoproject\\demoproject\\models\\proizvoditeli.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B8C94377-A4ED-32AF-5830-768049F413A4}|DemoProject\\DemoProject.csproj|solutionrelative:demoproject\\models\\proizvoditeli.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B8C94377-A4ED-32AF-5830-768049F413A4}|DemoProject\\DemoProject.csproj|c:\\users\\user1.11\\desktop\\\u0441\u0442\u043E\u043B\u044F\u0440\u043E\u0432\u0430 \u0434\u0430\u0440\u044C\u044F\\demoproject\\demoproject\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B8C94377-A4ED-32AF-5830-768049F413A4}|DemoProject\\DemoProject.csproj|solutionrelative:demoproject\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,11 +38,23 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 5,
+              "Title": "Proizvoditeli.cs",
+              "DocumentMoniker": "C:\\Users\\User1.11\\Desktop\\\u0421\u0442\u043E\u043B\u044F\u0440\u043E\u0432\u0430 \u0414\u0430\u0440\u044C\u044F\\DemoProject\\DemoProject\\Models\\Proizvoditeli.cs",
+              "RelativeDocumentMoniker": "DemoProject\\Models\\Proizvoditeli.cs",
+              "ToolTip": "C:\\Users\\User1.11\\Desktop\\\u0421\u0442\u043E\u043B\u044F\u0440\u043E\u0432\u0430 \u0414\u0430\u0440\u044C\u044F\\DemoProject\\DemoProject\\Models\\Proizvoditeli.cs",
+              "RelativeToolTip": "DemoProject\\Models\\Proizvoditeli.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-24T09:49:05.04Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "MainWindow.axaml",
               "DocumentMoniker": "C:\\Users\\User1.11\\Desktop\\\u0421\u0442\u043E\u043B\u044F\u0440\u043E\u0432\u0430 \u0414\u0430\u0440\u044C\u044F\\DemoProject\\DemoProject\\MainWindow.axaml",
               "RelativeDocumentMoniker": "DemoProject\\MainWindow.axaml",
@@ -35,15 +67,63 @@
             {
               "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "Tovar.cs",
+              "DocumentMoniker": "C:\\Users\\User1.11\\Desktop\\\u0421\u0442\u043E\u043B\u044F\u0440\u043E\u0432\u0430 \u0414\u0430\u0440\u044C\u044F\\DemoProject\\DemoProject\\Models\\Tovar.cs",
+              "RelativeDocumentMoniker": "DemoProject\\Models\\Tovar.cs",
+              "ToolTip": "C:\\Users\\User1.11\\Desktop\\\u0421\u0442\u043E\u043B\u044F\u0440\u043E\u0432\u0430 \u0414\u0430\u0440\u044C\u044F\\DemoProject\\DemoProject\\Models\\Tovar.cs",
+              "RelativeToolTip": "DemoProject\\Models\\Tovar.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAgwBsAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-24T09:08:35.771Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UserWindow.axaml",
+              "DocumentMoniker": "C:\\Users\\User1.11\\Desktop\\\u0421\u0442\u043E\u043B\u044F\u0440\u043E\u0432\u0430 \u0414\u0430\u0440\u044C\u044F\\DemoProject\\DemoProject\\UserWindow.axaml",
+              "RelativeDocumentMoniker": "DemoProject\\UserWindow.axaml",
+              "ToolTip": "C:\\Users\\User1.11\\Desktop\\\u0421\u0442\u043E\u043B\u044F\u0440\u043E\u0432\u0430 \u0414\u0430\u0440\u044C\u044F\\DemoProject\\DemoProject\\UserWindow.axaml*",
+              "RelativeToolTip": "DemoProject\\UserWindow.axaml*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-02-24T08:33:03.881Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "UserWindow.axaml.cs",
+              "DocumentMoniker": "C:\\Users\\User1.11\\Desktop\\\u0421\u0442\u043E\u043B\u044F\u0440\u043E\u0432\u0430 \u0414\u0430\u0440\u044C\u044F\\DemoProject\\DemoProject\\UserWindow.axaml.cs",
+              "RelativeDocumentMoniker": "DemoProject\\UserWindow.axaml.cs",
+              "ToolTip": "C:\\Users\\User1.11\\Desktop\\\u0421\u0442\u043E\u043B\u044F\u0440\u043E\u0432\u0430 \u0414\u0430\u0440\u044C\u044F\\DemoProject\\DemoProject\\UserWindow.axaml.cs",
+              "RelativeToolTip": "DemoProject\\UserWindow.axaml.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA8AAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-24T08:33:03.799Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\User1.11\\Desktop\\\u0421\u0442\u043E\u043B\u044F\u0440\u043E\u0432\u0430 \u0414\u0430\u0440\u044C\u044F\\DemoProject\\DemoProject\\Models\\User.cs",
+              "RelativeDocumentMoniker": "DemoProject\\Models\\User.cs",
+              "ToolTip": "C:\\Users\\User1.11\\Desktop\\\u0421\u0442\u043E\u043B\u044F\u0440\u043E\u0432\u0430 \u0414\u0430\u0440\u044C\u044F\\DemoProject\\DemoProject\\Models\\User.cs",
+              "RelativeToolTip": "DemoProject\\Models\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-24T08:27:06.266Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "MainWindow.axaml.cs",
               "DocumentMoniker": "C:\\Users\\User1.11\\Desktop\\\u0421\u0442\u043E\u043B\u044F\u0440\u043E\u0432\u0430 \u0414\u0430\u0440\u044C\u044F\\DemoProject\\DemoProject\\MainWindow.axaml.cs",
               "RelativeDocumentMoniker": "DemoProject\\MainWindow.axaml.cs",
               "ToolTip": "C:\\Users\\User1.11\\Desktop\\\u0421\u0442\u043E\u043B\u044F\u0440\u043E\u0432\u0430 \u0414\u0430\u0440\u044C\u044F\\DemoProject\\DemoProject\\MainWindow.axaml.cs",
               "RelativeToolTip": "DemoProject\\MainWindow.axaml.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAABsAAAAAAAAAAAAAwDUAAAAUAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-24T07:10:55.879Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-02-24T07:10:55.879Z"
             }
           ]
         }

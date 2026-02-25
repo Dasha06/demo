@@ -4039,9 +4039,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\User1.11\\Desktop\\Столярова Дарья\\Demoproject\\DemoProject\\DemoProject.csproj",
+      "projectUniqueName": "C:\\Users\\User1.11\\Desktop\\Столярова Дарья\\DemoProject\\DemoProject\\DemoProject.csproj",
       "projectName": "DemoProject",
-      "projectPath": "C:\\Users\\User1.11\\Desktop\\Столярова Дарья\\Demoproject\\DemoProject\\DemoProject.csproj",
+      "projectPath": "C:\\Users\\User1.11\\Desktop\\Столярова Дарья\\DemoProject\\DemoProject\\DemoProject.csproj",
       "packagesPath": "C:\\Users\\User1.11\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\User1.11\\Desktop\\Столярова Дарья\\Demoproject\\DemoProject\\obj\\",
       "projectStyle": "PackageReference",
@@ -4406,13 +4406,5 @@
         }
       }
     }
-  },
-  "logs": [
-    {
-      "code": "NU1900",
-      "level": "Warning",
-      "warningLevel": 1,
-      "message": "Произошла ошибка при получении данных уязвимости пакета: Не удалось загрузить индекс службы для источника https://api.nuget.org/v3/index.json."
-    }
-  ]
+  }
 }

@@ -26,7 +26,7 @@
 			  <DataTemplate>
 				  <Grid ColumnDefinitions="100,450,*">
 					  <StackPanel Grid.Column="0">
-						  <Image asyncImageLoader:ImageLoader.Source="TovarImages"/>
+						  <asyncImageLoader:AdvancedImage Source="{Binding TovarImage}"/>
                       </StackPanel>
                       <Grid RowDefinitions="*,*,*,*,*,*,*" Grid.Column="1">
                           <StackPanel Orientation="Horizontal" Spacing="5">
